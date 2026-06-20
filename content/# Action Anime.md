@@ -1,1 +1,0 @@
-This section covers action anime series and their themes, characters, and stories.
