@@ -1,6 +1,3 @@
----
-title: Edward Elric
----
 
 # Edward Elric
 

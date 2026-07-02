@@ -1,6 +1,3 @@
----
-title: Monkey D. Luffy
----
 
 # Monkey D. Luffy
 

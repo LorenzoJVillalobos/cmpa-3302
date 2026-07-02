@@ -1,6 +1,3 @@
----
-title: Sung Jinwoo
----
 
 # Sung Jinwoo
 

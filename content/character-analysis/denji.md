@@ -1,6 +1,3 @@
----
-title: Denji
----
 
 # Denji
 ![Denji from Chainsaw Man](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-d5TZ6_yTsU6e6CCNzWc9C2FiIEcoy3DeMQXRJ-o7g&s)

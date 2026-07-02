@@ -1,6 +1,3 @@
----
-title: Tanjiro Kamado
----
 
 # Tanjiro Kamado
 
