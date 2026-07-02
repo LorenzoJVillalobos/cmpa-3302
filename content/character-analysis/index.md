@@ -1,6 +1,3 @@
-
----
-
 # Character Analysis
 
 This section of my knowledge base focuses on anime characters that stand out to me because of their development, motivations, and the way they influence the stories around them. One of the things I enjoy most about anime is seeing how a character grows through conflict, sacrifice, and the relationships they build with other people. Some characters stand out because of their determination, while others are interesting because of how flawed, emotional, or unpredictable they are. Looking at characters individually helps me appreciate what makes a story memorable beyond just action scenes or plot twists.
