@@ -1,8 +1,7 @@
 ---
 title: Character Analysis
 ---
----
-title: Character Analysis
+
 ---
 
 # Character Analysis

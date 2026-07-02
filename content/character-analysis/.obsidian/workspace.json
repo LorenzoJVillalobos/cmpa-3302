@@ -11,10 +11,14 @@
             "id": "c56eba1f1ed6bf2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "monkey-d-luffy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "monkey-d-luffy"
             }
           }
         ]
@@ -180,14 +184,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "36b9a98d04f85aad",
+  "active": "c56eba1f1ed6bf2d",
   "lastOpenFiles": [
+    "index.md",
+    "monkey-d-luffy.md",
     "denji.md",
     "Pasted image 20260701174526.png",
     "edward-elric.md",
     "sung-jinwoo.md",
-    "tanjiro-kamado.md",
-    "monkey-d-luffy.md",
-    "index.md"
+    "tanjiro-kamado.md"
   ]
 }
