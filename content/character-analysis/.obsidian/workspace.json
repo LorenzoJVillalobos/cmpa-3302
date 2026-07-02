@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "monkey-d-luffy.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "monkey-d-luffy"
+              "title": "index"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "c56eba1f1ed6bf2d",
   "lastOpenFiles": [
-    "index.md",
     "monkey-d-luffy.md",
+    "index.md",
     "denji.md",
     "Pasted image 20260701174526.png",
     "edward-elric.md",
