@@ -1,0 +1,1 @@
+![[spirited-away-picture-book-9781569317969_hr.jpg]]
