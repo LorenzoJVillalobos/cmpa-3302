@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "org-system-analysis/organizing-system-analysis.md",
+                "file": "org-system-analysis/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "organizing-system-analysis"
+              "title": "index"
             }
           }
         ]
@@ -183,7 +183,7 @@
   "active": "8d3923ace97c4bdb",
   "lastOpenFiles": [
     "studio-ghibli/index.md",
-    "org-system-analysis/organizing-system-analysis.md",
+    "org-system-analysis/index.md",
     "org-system-analysis",
     "assets/spirited-away-picture-book-9781569317969_hr.jpg",
     "assets/SpiritedAway.pdf",
