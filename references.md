@@ -1,26 +1,19 @@
----
-title: References
-date: 2026-07-21
----
-
-# References
-
 ## Studio Ghibli
 
-https://www.ghibli.jp/
+[Studio Ghibli Official Website](https://www.ghibli.jp/)
 
-Used on
+Used on:
 
-- Studio Ghibli
-- Spirited Away
+- [[studio-ghibli/index|Studio Ghibli]]
+- [[studio-ghibli/spirited-away|Spirited Away]]
 
 ---
 
 ## Crunchyroll
 
-https://www.crunchyroll.com/
+[Crunchyroll](https://www.crunchyroll.com/)
 
-Used on
+Used on:
 
-- Demon Slayer
-- Solo Leveling
+- [[shonen-anime/demon-slayer|Demon Slayer]]
+- [[action-anime/solo-leveling|Solo Leveling]]
