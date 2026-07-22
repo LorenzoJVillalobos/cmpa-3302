@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d905ca51a44b2ec7",
+        "id": "db7711984e6a7c9f",
         "type": "tabs",
         "children": [
           {
-            "id": "8d3923ace97c4bdb",
+            "id": "50ce0a06163f60c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "dark-fantasy/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -176,10 +180,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "8d3923ace97c4bdb",
+  "active": "f58dc171908f58a8",
   "lastOpenFiles": [
+    "references.md",
+    "references.md",
     "org-system-analysis/index.md",
+    "personal-reviews/index.md",
+    "recommendations/index.md",
+    "shonen-anime/index.md",
     "studio-ghibli/index.md",
+    "# index My Anime Knowledge Base.md",
+    "character-analysis/tanjiro-kamado.md",
+    "character-analysis/sung-jinwoo.md",
+    "character-analysis/monkey-d-luffy.md",
+    "character-analysis/index.md",
+    "character-analysis/edward-elric.md",
+    "character-analysis/denji.md",
     "org-system-analysis",
     "assets/spirited-away-picture-book-9781569317969_hr.jpg",
     "assets/SpiritedAway.pdf",
@@ -189,11 +205,9 @@
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
-    "# index My Anime Knowledge Base.md",
     "studio-ghibli/Untitled.md",
     "Untitled.md",
     "assets",
-    "action anime/index.md",
-    "shonen-anime/index.md"
+    "action anime/index.md"
   ]
 }
